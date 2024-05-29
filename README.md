@@ -1,0 +1,1 @@
+# Language-Pack-Georgian-for-DiscordPlus
